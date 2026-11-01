@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 requests==2.31.0
+=======
+requests==2.31.0
+>>>>>>> 08e9caedfe9bcdb2b2b4832e31896540a177e4c6
 pytest==7.4.3
